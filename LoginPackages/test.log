@@ -1,0 +1,3 @@
+WARNING:root:some happed
+ERROR:root:error found in line 02
+INFO:root:Development line 94 have syntax error

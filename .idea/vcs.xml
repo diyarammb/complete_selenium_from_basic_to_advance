@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BasicWeb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BrowserInteract" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CalenderSelection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/File_Upload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SAP_OBJECT_DETAIL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SAP_Object_Def" vcs="Git" />
+  </component>
+</project>

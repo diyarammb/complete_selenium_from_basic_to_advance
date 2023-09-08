@@ -1,0 +1,46 @@
+Getting Started 
+Mean Median Mode 
+Standard Deviation 
+Percentile 
+Data Distribution 
+Normal Data Distribution 
+Scatter Plot 
+Linear Regression 
+Polynomial Regression 
+Multiple Regression 
+Scale 
+Train/Test 
+Decision Tree 
+Confusion Matrix 
+Hierarchical Clustering 
+Logistic Regression 
+Grid Search 
+Categorical Data 
+K-means 
+Bootstrap Aggregation 
+Cross Validation 
+AUC - ROC Curve 
+K-nearest neighbors 
+https://www.w3schools.com/python/python_ml_getting_started.asp 
+https://www.w3schools.com/python/python_ml_mean_median_mode.asp 
+https://www.w3schools.com/python/python_ml_standard_deviation.asp 
+https://www.w3schools.com/python/python_ml_percentile.asp 
+https://www.w3schools.com/python/python_ml_data_distribution.asp 
+https://www.w3schools.com/python/python_ml_normal_data_distribution.asp 
+https://www.w3schools.com/python/python_ml_scatterplot.asp 
+https://www.w3schools.com/python/python_ml_linear_regression.asp 
+https://www.w3schools.com/python/python_ml_polynomial_regression.asp 
+https://www.w3schools.com/python/python_ml_multiple_regression.asp 
+https://www.w3schools.com/python/python_ml_scale.asp 
+https://www.w3schools.com/python/python_ml_train_test.asp 
+https://www.w3schools.com/python/python_ml_decision_tree.asp 
+https://www.w3schools.com/python/python_ml_confusion_matrix.asp 
+https://www.w3schools.com/python/python_ml_hierarchial_clustering.asp 
+https://www.w3schools.com/python/python_ml_logistic_regression.asp 
+https://www.w3schools.com/python/python_ml_grid_search.asp 
+https://www.w3schools.com/python/python_ml_preprocessing.asp 
+https://www.w3schools.com/python/python_ml_k-means.asp 
+https://www.w3schools.com/python/python_ml_bagging.asp 
+https://www.w3schools.com/python/python_ml_cross_validation.asp 
+https://www.w3schools.com/python/python_ml_auc_roc.asp 
+https://www.w3schools.com/python/python_ml_knn.asp 
